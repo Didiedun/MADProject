@@ -11,8 +11,8 @@ PROJECT SUMMARY:
 This project make use of the Flutter software to develop a book library mobile application. This application will make use of Google API in it. We build the user interface with a minimalist theme so that it is user friendly and easy to understand.
 
 PROJECT OBJECTIVE:
--To let user search for books online using the Google API.
--To build a mobile application using the Flutter software.
+1. To let user search for books online using the Google API.
+2. To build a mobile application using the Flutter software.
 
 HOW TO USE THE APPLICATION:
 1. Create an account.
