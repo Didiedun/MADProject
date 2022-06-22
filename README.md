@@ -6,6 +6,7 @@
 3. Mohamad Arif Daniel Bin Muhamaddun (1917027)
 4. Daniel Hakim Bin Mat Isa (1915089)
 
+
 PROJECT SUMMARY:
 This project make use of the Flutter software to develop a book library mobile application. This application will make use of Google API in it. We build the user interface with a minimalist theme so that it is user friendly and easy to understand.
 
