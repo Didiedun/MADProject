@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671535024785",
+    "project_id": "madbooksapp-77399",
+    "storage_bucket": "madbooksapp-77399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671535024785:android:f8cea282bf6c35d644cd30",
+        "android_client_info": {
+          "package_name": "com.mobileappdevelopment.books_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671535024785-6qhnad2obcatbf4sqmafr75rciiqa1m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQyNnL-kEoU4dEDnlrkUV0DTzFvMrSAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671535024785-6qhnad2obcatbf4sqmafr75rciiqa1m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
